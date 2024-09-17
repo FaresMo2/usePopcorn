@@ -4,7 +4,7 @@ import StarRating from "./StarRating";
 import { useLocalStorageState } from "./useLocalStorageState";
 import { useKey } from "./useKey";
 
-const KEY = "798026d2";
+const KEY = "386a3c33";
 
 export default function App() {
   const [query, setQuery] = useState("");
